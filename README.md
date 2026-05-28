@@ -34,3 +34,11 @@ City Agent is a real-time urban monitoring system that processes data from multi
 
 ## 🎯 Goal
 To build a smart, scalable system for real-time city monitoring and incident detection.
+
+## workings
+<img width="964" height="667" alt="Screenshot 2026-03-23 185730" src="https://github.com/user-attachments/assets/3d9ba463-8d08-4165-b3c7-06534caf0ed2" />
+<img width="1915" height="923" alt="Screenshot 2026-03-23 185139" src="https://github.com/user-attachments/assets/4a12b54f-1817-43a6-8dff-244feca5fa96" />
+<img width="1188" height="946" alt="Screenshot 2026-03-23 185651" src="https://github.com/user-attachments/assets/3c958ba6-239a-44ab-a52d-6dc5f771260f" />
+
+
+
